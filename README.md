@@ -19,7 +19,7 @@ Full Stack Developer building websites and operations tools that businesses actu
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibin-jasif-1bab80417/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibinjasif@gmail.com)
 
 ---
@@ -41,34 +41,19 @@ Full Stack Developer building websites and operations tools that businesses actu
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
+#### Deployment
+![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
+
 #### Tools & Design
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Shibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shibinjasif98&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibinjasif98&layout=compact&theme=tokyonight)
+#### AI-Assisted Workflow
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF4F8B?style=flat)
 
 ---
 
 > "Build things people actually use."
-
-
-<!--
-**shibinjasif98/shibinjasif98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
